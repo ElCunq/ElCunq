@@ -1,129 +1,243 @@
-![Logo](https://cdn.cottle.cloud/GitHub/LittleLink/littlelink.gif)
+<div align="center">
 
-# LittleLink
-The DIY self-hosted LinkTree alternative. LittleLink has more than 100 branded button styles you can easily use, with more regularly added by our community in this repo and in [LittleLink Extended](https://github.com/sethcottle/littlelink-extended).
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Cenk%20Orfa&fontSize=90&fontAlignY=38&animation=twinkling&desc=Information%20Security%20%26%20DevOps%20Enthusiast&descSize=20&descAlignY=55" alt="Header" />
 
----
-### 🆕 LittleLink Button Builder
-Want to make your own buttons for LittleLink but you're not too sure where to start? [Check out our new Button Builder](https://builder.littlelink.io). This new builder lets you preview button styles and with a single click, copy the generated CSS code to put in `css/brands.css`, and copy the generated HTML code to put in `index.html`. This builder also helps automate accessibility features by checking contrast ratios and suggesting strokes when needed, ensuring your custom buttons maintain LittleLink's high standards for visibility in both light and dark themes. Design your buttons visually, preview them live, and get ready to go code. [Live Site](https://builder.littlelink.io) | [GitHub Repo](https://github.com/sethcottle/littlelink-button-builder)
+  <br/>
 
----
-### 🌞 Themes and Accessibility
-LittleLink offers `auto`, `light`, and `dark` themes right out of the box. If the default color schemes don't match your preference, you can easily customize them by updating the values in `style.css`. You can set any of the themes right in `index.html`. To enhance visual accessibility in both `light` and `dark` modes, buttons lacking sufficient contrast with the background are outlined with an inverse stroke to ensure visibility. While LittleLink emphasizes accessibility, it's important to acknowledge that not all brands incorporated into LittleLink achieve this standard. Branded buttons that come into LittleLink always retain the original essence of the brand and some branded buttons might fall short of optimal accessibility in terms of contrast.
+  ### 🛡️ Cyber Security Student | 🐧 Linux Enthusiast | ⚙️ DevOps Explorer
+  
+  <p align="center">
+    <i>Siber güvenlik temellerini modern DevOps pratikleriyle birleştirerek,</i><br>
+    <i>güvenli ve ölçeklenebilir sistemler tasarlıyorum.</i><br><br>
+    🎯 Şu anda <b>Enpara.com</b> gibi kurumsal yapılarda değer yaratmaya hazırlanıyorum.
+  </p>
 
-![Theme](https://cdn.cottle.cloud/GitHub/LittleLink/ThemeSupport.gif)
+  <br/>
 
----
-### 🥇 Performance
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Location-İstanbul,_TR-red?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Cyber_Security-blueviolet?style=flat-square&logo=hackaday&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=flat-square&logo=statuspal&logoColor=white" />
+  </p>
 
-![Performance](https://cdn.cottle.cloud/GitHub/LittleLink/ranking.gif)
+  <br/>
 
-LittleLink epitomizes simplicity and minimalism. When evaluating the [LittleLink sample page](https://littlelink.io/sample/seth) (which mirrors a typical LittleLink setup for an individual) through tools such as [Google PageSpeed Insights](https://pagespeed.web.dev/analysis/https-littlelink-io-sample-seth/17ex80ryq4?form_factor=mobile), showcases LittleLink's excellence with 100/100 in Performance, Accessibility, Best Practices, and SEO. My initial vision for LittleLink was to craft it from the fundamentals. LittleLink leverages it's own vanilla `css` to remove the unnecessary bloat you would get from using a large framework for a page that requires nothing more than simplicity.
+  <!-- Call to Action Buttons -->
+  <a href="https://orfadev.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-orfadev.com-2962FF?style=for-the-badge&logoColor=white" height="35" />
+  </a>
+  <a href="./CenkOrfa_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-Download_PDF-EA4335?style=for-the-badge&logoColor=white" height="35" />
+  </a>
+  <a href="./publickey.txt" target="_blank">
+    <img src="https://img.shields.io/badge/🔐_PGP_Key-4096_RSA-00C853?style=for-the-badge&logoColor=white" height="35" />
+  </a>
 
----
-### ☁️ Deploy
+  <br/><br/>
 
-![Publish](https://cdn.cottle.cloud/GitHub/LittleLink/test/css/deploy.gif)
+  <!-- Social Links -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-cenkorfa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cenkorfa)
+  [![GitHub](https://img.shields.io/badge/GitHub-ElCunq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElCunq)
+  [![ProtonMail](https://img.shields.io/badge/Proton-cenkorfa-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cenkorfa@proton.me)
+  [![Gmail](https://img.shields.io/badge/Gmail-cenkorfa1-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cenkorfa1@gmail.com)
 
-No need for gulp, npm, or anything else to make LittleLink work—it uses the bare essentials. You can automatically fork and deploy LittleLink with [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or [Amplify](https://aws.amazon.com/amplify) using the button below. LittleLink is also easy to host through [GitHub Pages](https://pages.github.com/) or on your home lab server, CDN, or other frontend hosting services. To edit, all you need is a little basic HTML knowledge to add a link to the exisiting buttons or you can create your own. See our [adding custom buttons to your own fork wiki](https://github.com/sethcottle/littlelink/wiki/Adding-custom-buttons-to-your-own-fork). It's simple, promise. 🤞
-
----
-##### One-Click Deployments
-
-[![Deploy to Vercel](https://cdn.cottle.cloud/littlelink/button-deploy-vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsethcottle%2Flittlelink&project-name=littlelink&repository-name=littlelink)
-
-[![Deploy to Netlify](https://cdn.cottle.cloud/littlelink/button-deploy-netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sethcottle/littlelink)
-
-[![Deploy to Amplify](https://cdn.cottle.cloud/littlelink/button-deploy-amplify.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/sethcottle/littlelink)
-
----
-
-### 🤝 Contributions
-Please reference the [submitting a new brand to LittleLink wiki](https://github.com/sethcottle/littlelink/wiki/Submitting-a-new-brand-to-LittleLink) before opening a PR.
-
----
-### 📦 Community Extras
-
-#### 🛸 LittleLink Extended
-Looking for more niche services to add to your copy of LittleLink? Check out [LittleLink Extended](https://github.com/sethcottle/littlelink-extended). Users can add more niche services to this repository to help keep the core LittleLink repository less cluttered and more focused on delivering branded experiences for the majority of users.
-
-#### 🎨 Figma
-Duplicate the [LittleLink Template on Figma Community](https://www.figma.com/community/file/846568099968305613) to help plan out and design your LittleLink page.
-
-[![Figma Community](https://cdn.cottle.cloud/littlelink/button-figma-community.svg)](https://www.figma.com/community/file/846568099968305613)
-
-#### 🐋 Docker
-• [Techno Tim](https://github.com/timothystewart6) is building [LittleLink-Server](https://github.com/techno-tim/littlelink-server). Check out [his video](https://youtu.be/42SqfI_AjXU)!
-
-• [Drew](https://github.com/davisdre) is building a [super simple Docker implementation of LittleLink](https://github.com/davisdre/littlelink).
-
-#### 🗃️ Misc
-• [Julian](https://github.com/JulianPrieber) is building [LinkStack](https://github.com/LinkStackOrg/LinkStack), which is a fork of [Khashayar](https://github.com/khashayarzavosh)'s [LittleLink Admin](https://github.com/khashayarzavosh/admin-littlelink).
+</div>
 
 ---
 
-### 💖 Supporters
-You can support LittleLink by [buying me a coffee](https://www.buymeacoffee.com/seth). You can also have your name or your company added to this section and the supporters page of the [LittleLink.io](https://littlelink.io) website.
+<br/>
 
-#### 🏢 Business Supporters
-• **[Unallocated Space](https://connect.unallocatedspace.org/)** | Hacker/Makerspace in Millersville, MD, serving the greater Baltimore-Washington area
+## 🛠️ Technical Arsenal
 
-• **[links.dev](https://github.com/fatih-yavuz/links.dev)**
+<div align="center">
 
-[![Add Your Company Name](https://cdn.cottle.cloud/littlelink/button-buy-me-a-coffee-company.svg)](https://www.buymeacoffee.com/seth/e/50574)
-
-#### ✨ Individual Supporters
-• **[Drew Davis](https://connect.davisdre.me)**
-
-• **[Robotter112](https://robotter112.de/)**
-
-[![Buy Me A Coffee](https://cdn.cottle.cloud/littlelink/button-buy-me-a-coffee-individual.svg)](https://www.buymeacoffee.com/seth/e/50573)
-
-#### 🐙 Active GitHub Sponsors
-• **[Your Name Here](https://github.com/sponsors/sethcottle)**
-
-[![GitHub Sponsors](https://cdn.cottle.cloud/littlelink/button-github-sponsors.svg)](https://github.com/sponsors/sethcottle)
-
-
-#### 🥰 More Ways to Support LittleLink
-[![Buy Me A Coffee](https://cdn.cottle.cloud/littlelink/button-buy-me-a-coffee.svg)](https://www.buymeacoffee.com/seth/)
-
-[![Ko-Fi](https://cdn.cottle.cloud/littlelink/button-ko-fi.svg)](https://ko-fi.com/sethcottle)
-
-[![PayPal](https://cdn.cottle.cloud/littlelink/button-paypal.svg)](https://paypal.me/sethcottle/)
-
----
-
-### 🆕 Stay Connected
-
-Join the [Seth's Nook Discord](https://discord.gg/PrAEQFF2fK) server to get updates on LittleLink and more. Use the invite code `PrAEQFF2fK` or click the button below.
-
-[![Discord](https://cdn.cottle.cloud/littlelink/button-discord.svg)](https://discord.gg/PrAEQFF2fK)
-
----
-
-### 📊 Analytics
-
-To help build a more privacy focused product, we recommend using [Fathom Analytics](https://usefathom.com/ref/EQVZMV)*. [View our Fathom analytics dashboard](https://app.usefathom.com/share/xbmnwxxl/littlelink.io#/?filters=%5B%5D&range=last_7_days&site=2251799827005303)**.
-
-###### * This is a referral link. Using this link to sign up for Fathom is an easy way to help support LittleLink!
-
-###### ** Analytics in this dashboard start May 03, 2022. View this [Google Sheets file](https://docs.google.com/spreadsheets/d/1GL4SroAdH-OZphBVR5z-BoSukHIEVJfao25q_e9-Ii8/edit?usp=sharing) with the generic unique pageview data from Google Analytics.
-
-[![Fathom](https://cdn.cottle.cloud/littlelink/button-fathom-analytics.svg)](https://usefathom.com/ref/EQVZMV)
-
----
-### 🐳 Docker Support
-LittleLink includes Docker support for easy deployment and development. All Docker-related files are located in the `docker/` directory.
-
-To run LittleLink using Docker:
-
-```bash
-docker compose -f docker/compose.yaml up
+```
+🔐 Security & Network    |    ☁️ DevOps & Cloud    |    💻 Development
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-This will make the site available at http://localhost:8080
+</div>
 
-For more information about Docker configuration, see [docker/README.md](docker/README.md).
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🔐 Security & Network**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**☁️ DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B21A8?style=for-the-badge&logo=docker&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**💻 Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+> *Güvenlik, altyapı ve yazılım geliştirme odaklı projelerim*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Linux Log Anomaly Detection
+
+**AI-Powered Security System**
+
+Derin öğrenme algoritmaları kullanarak Linux sunucu loglarında (syslog/auth.log) anormal davranışları gerçek zamanlı tespit eden yapay zeka modeli.
+
+**🔧 Tech Stack:**
+- `Python` `TensorFlow` `Keras`
+- `Pandas` `NumPy` `Scikit-learn`
+- `Linux Syslog` `SSH Logs`
+
+**✨ Features:**
+- ✅ Real-time anomaly detection
+- ✅ 95%+ accuracy rate
+- ✅ Automated threat alerts
+
+</td>
+<td width="50%">
+
+### ⌚ Sentinel - IoT Server Monitor
+
+**WearOS Smart Monitoring**
+
+Galaxy Watch 4 üzerinden kişisel sunucu altyapısını (VPS) anlık olarak izleyen, uptime, CPU ve memory kullanımını gösteren giyilebilir teknoloji uygulaması.
+
+**🔧 Tech Stack:**
+- `WearOS` `Kotlin` `Jetpack Compose`
+- `WebSocket` `Python Backend`
+- `Docker` `FastAPI`
+
+**✨ Features:**
+- ✅ Real-time server metrics
+- ✅ Low battery consumption
+- ✅ Push notifications
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📧 Mailora - Secure Email Client
+
+**Privacy-First Communication**
+
+Gizlilik odaklı, uçtan uca şifreli (E2EE) masaüstü e-posta istemcisi. PGP/GPG ile entegre, zero-knowledge architecture.
+
+**🔧 Tech Stack:**
+- `Electron` `React` `TypeScript`
+- `Node.js` `OpenPGP.js`
+- `SQLite` `Electron Forge`
+
+**✨ Features:**
+- ✅ End-to-end encryption
+- ✅ PGP key management
+- ✅ Offline-first design
+
+</td>
+<td width="50%">
+
+### ☁️ OrfaDev Infrastructure
+
+**Self-Hosted DevOps Platform**
+
+Kendi yönettiğim VDS üzerinde çalışan Dockerize mikroservis mimarisi. Coolify ile otomatik deployment, Nginx reverse proxy ve SSL yönetimi.
+
+**🔧 Tech Stack:**
+- `Docker` `Docker Compose`
+- `Coolify` `Nginx` `Certbot`
+- `Arch Linux` `PostgreSQL`
+
+**✨ Features:**
+- ✅ Auto-deployment with Git
+- ✅ SSL/TLS automation
+- ✅ Multi-service orchestration
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElCunq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&locale=tr&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElCunq&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElCunq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=tr&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElCunq&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ElCunq&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+<p>
+  <i>Siber güvenlik, DevOps ve açık kaynak projeler hakkında konuşmak ister misiniz?</i><br>
+  <b>Her zaman yeni fırsatlara ve işbirliklerine açığım! 🚀</b>
+</p>
+
+<br/>
+
+**🌐 Self-Hosted at:** [orfadev.com](https://orfadev.com) • **⚡ Powered by:** Arch Linux + Docker + Coolify
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ElCunq&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" alt="Footer" />
+
+</div>

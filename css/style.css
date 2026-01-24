@@ -346,6 +346,44 @@ ul li {
 	}
 }
 
+/* Custom Button Styles - Proton & Gmail
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button-proton {
+	--button-background: #6D4AFF;
+	--button-text: #ffffff;
+	--button-border: 2px solid #6D4AFF;
+	background-color: #6D4AFF;
+	color: #ffffff;
+	border: 2px solid #6D4AFF;
+}
+
+.button-proton:hover {
+	background-color: #5a3dd4;
+	border-color: #5a3dd4;
+}
+
+.button-proton .icon {
+	filter: brightness(0) saturate(100%) invert(100%);
+}
+
+.button-gmail {
+	--button-background: #EA4335;
+	--button-text: #ffffff;
+	--button-border: 2px solid #EA4335;
+	background-color: #EA4335;
+	color: #ffffff;
+	border: 2px solid #EA4335;
+}
+
+.button-gmail:hover {
+	background-color: #d33c2e;
+	border-color: #d33c2e;
+}
+
+.button-gmail .icon {
+	filter: brightness(0) saturate(100%) invert(100%);
+}
+
 /* Font Face Definitions
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 @font-face {
