@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Cenk%20Orfa&fontSize=90&fontAlignY=38&animation=twinkling&desc=Information%20Security%20%26%20DevOps%20Enthusiast&descSize=20&descAlignY=55" alt="Header" />
-
-  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cenk+Orfa;Cyber+Security+Student;DevOps+Enthusiast;Arch+Linux+User" alt="Typing SVG" />
+  
+  <br/><br/>
 
   ### 🛡️ Cyber Security Student | 🐧 Linux Enthusiast | ⚙️ DevOps Explorer
   
