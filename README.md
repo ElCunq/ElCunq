@@ -4,20 +4,18 @@
   
   <br/><br/>
 
-  ### 🛡️ Cyber Security Student | 🐧 Linux Enthusiast | ⚙️ DevOps Explorer
+  ### 🛡️ Software Engineer Student | 🐧 Linux Enthusiast | ⚙️ DevOps Explorer
   
   <p align="center">
     <i>Siber güvenlik temellerini modern DevOps pratikleriyle birleştirerek,</i><br>
     <i>güvenli ve ölçeklenebilir sistemler tasarlıyorum.</i><br><br>
-    🎯 Şu anda <b>Enpara.com</b> gibi kurumsal yapılarda değer yaratmaya hazırlanıyorum.
-  </p>
 
   <br/>
 
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/Location-İstanbul,_TR-red?style=flat-square&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Cyber_Security-blueviolet?style=flat-square&logo=hackaday&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-DevOps-blueviolet?style=flat-square&logo=hackaday&logoColor=white" />
     <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=flat-square&logo=statuspal&logoColor=white" />
   </p>
 
