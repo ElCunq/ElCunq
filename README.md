@@ -280,10 +280,10 @@ OAuth2 karmaşasından uzak, IMAP/SMTP protokolleri üzerinden çoklu e-posta y�
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElCunq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&locale=tr&rank_icon=github" alt="GitHub İstatistikleri" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=ElCunq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&locale=tr&rank_icon=github" alt="GitHub İstatistikleri" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElCunq&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Serisi" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElCunq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=tr&langs_count=8" alt="En Çok Kullanılan Diller" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ElCunq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=tr&langs_count=8" alt="En Çok Kullanılan Diller" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElCunq&theme=tokyonight&utcOffset=3" alt="Verimli Saatler" />
 
 </div>
