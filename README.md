@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cenk+Orfa;Software+%26+DevOps+Engineer;DevSecOps+%26+Cloud+Infrastructure;Arch+Linux+Power+User" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cenk+Orfa;Yaz%C4%B1l%C4%B1m+%26+DevOps+M%C3%BChendisi;DevSecOps+%26+Bulut+Altyap%C4%B1s%C4%B1;Arch+Linux+Kullan%C4%B1c%C4%B1s%C4%B1" alt="Typing SVG" />
   
   <br/><br/>
 
-  ### ⚙️ Software Engineer | 🛡️ DevSecOps & Cloud Infrastructure | 🐧 Linux Systems
+  ### ⚙️ Yazılım Mühendisi | 🛡️ DevSecOps & Bulut Altyapı Uzmanı | 🐧 Linux Sistemleri
 
   <p align="center">
     <i>Modern DevOps pratikleri, bulut otomasyonu ve sistem güvenliğini birleştirerek,</i><br>
@@ -13,33 +13,33 @@
 
   <br/>
 
-  <!-- Badges -->
+  <!-- Rozetler -->
   <p>
-    <img src="https://img.shields.io/badge/Location-İstanbul,_TR-red?style=flat-square&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-DevOps_%26_DevSecOps-blueviolet?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat-square&logo=statuspal&logoColor=white" />
+    <img src="https://img.shields.io/badge/Konum-İstanbul,_TR-red?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Odak-DevOps_%26_DevSecOps-blueviolet?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/İşletim_Sistemi-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Durum-Fırsatlara_Açık-success?style=flat-square&logo=statuspal&logoColor=white" />
   </p>
 
   <br/>
 
-  <!-- Call to Action Buttons -->
+  <!-- Butonlar -->
   <a href="https://orfadev.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-orfadev.com-2962FF?style=for-the-badge&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/🌐_Portföy-orfadev.com-2962FF?style=for-the-badge&logoColor=white" height="35" />
   </a>
   <a href="./CenkOrfa_CV_TR.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume_(TR)-PDF-EA4335?style=for-the-badge&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/📄_Özgeçmiş_(TR)-PDF-EA4335?style=for-the-badge&logoColor=white" height="35" />
   </a>
   <a href="./CenkOrfa_CV_EN.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume_(EN)-PDF-4285F4?style=for-the-badge&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/📄_Özgeçmiş_(EN)-PDF-4285F4?style=for-the-badge&logoColor=white" height="35" />
   </a>
   <a href="./publickey.txt" target="_blank">
-    <img src="https://img.shields.io/badge/🔐_PGP_Key-4096_RSA-00C853?style=for-the-badge&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/🔐_PGP_Anahtarı-4096_RSA-00C853?style=for-the-badge&logoColor=white" height="35" />
   </a>
 
   <br/><br/>
 
-  <!-- Social Links -->
+  <!-- Sosyal Medya Bağlantıları -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-cenkorfa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cenkorfa)
   [![GitHub](https://img.shields.io/badge/GitHub-ElCunq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElCunq)
   [![ProtonMail](https://img.shields.io/badge/Proton-cenkorfa-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cenkorfa@proton.me)
@@ -49,21 +49,21 @@
 
 ---
 
-## 💡 About Me & Engineering Philosophy
+## 💡 Hakkımda & Mühendislik Yaklaşımım
 
-- 🚀 **Infrastructure & Containerization:** Docker, Docker Compose, Traefik ve Coolify PaaS ekosistemlerinde izole mikroservis mimarileri ve otomasyon araçları geliştiriyorum.
-- 🛡️ **DevSecOps & Zero-Trust:** Sistem güvenliğini geliştirme süreçlerinin ilk adımına yerleştirerek; AES-256-GCM şifreleme, JWT/OAuth2 izolasyonu, Pentest ve sıkılaştırılmış konfigürasyonlar (CSP, Rate Limiting, UFW) uyguluyorum.
-- 🦀 **High-Performance & Memory Safety:** Yüksek performans gerektiren altyapı araçlarında ve mikroservislerde **Rust (Tokio / Axum)** tercih ediyor; düşük kaynak tüketimi (<30MB RAM footprint) ve sıfır bellek sızıntısı hedefliyorum.
-- ☁️ **Self-Hosted & IaC:** VDS/VPS sunucularda kendi kendini yöneten (self-hosted) sistemler, otomatik yedekleme protokolleri ve OCI CLI/Bash otomasyonları kuruyorum.
+- 🚀 **Altyapı & Konteynırlaştırma:** Docker, Docker Compose, Traefik ve Coolify PaaS ekosistemlerinde izole mikroservis mimarileri ve otomasyon araçları geliştiriyorum.
+- 🛡️ **DevSecOps & Sıfır Güven (Zero-Trust):** Güvenliği yazılım geliştirme süreçlerinin ilk adımına koyarak; AES-256-GCM şifreleme, JWT/OAuth2 izolasyonu, Pentest ve sıkılaştırılmış sunucu konfigürasyonları (CSP, Rate Limiting, UFW) uyguluyorum.
+- 🦀 **Yüksek Performans & Bellek Güvenliği:** Yüksek performans gerektiren altyapı araçlarında ve mikroservislerde **Rust (Tokio / Axum)** tercih ediyor; düşük kaynak tüketimi (<30MB RAM kullanımı) ve sıfır bellek sızıntısı hedefliyorum.
+- ☁️ **Self-Hosted & Altyapı Otomasyonu:** VDS/VPS sunucularda kendi kendini yöneten (self-hosted) sistemler, otomatik yedekleme protokolleri ve OCI CLI/Bash otomasyonları kuruyorum.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Teknik Yetenekler & Araçlar
 
 <div align="center">
 
 ```
-☁️ DevOps & Cloud    |    🛡️ DevSecOps & Security    |    💻 Languages & Systems    |    🗄️ Databases & Tools
+☁️ DevOps & Bulut    |    🛡️ DevSecOps & Güvenlik    |    💻 Diller & Sistemler    |    🗄️ Veritabanları & Araçlar
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -73,7 +73,7 @@
 <tr>
 <td align="center" width="25%">
 
-**☁️ DevOps & Cloud**
+**☁️ DevOps & Bulut**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1DE?style=for-the-badge&logo=traefik&logoColor=white)
@@ -85,7 +85,7 @@
 </td>
 <td align="center" width="25%">
 
-**🛡️ DevSecOps & Security**
+**🛡️ DevSecOps & Güvenlik**
 
 ![AES-256](https://img.shields.io/badge/AES--256--GCM-00C853?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-205493?style=for-the-badge&logo=owasp&logoColor=white)
@@ -96,7 +96,7 @@
 </td>
 <td align="center" width="25%">
 
-**💻 Languages & Systems**
+**💻 Diller & Sistemler**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -107,7 +107,7 @@
 </td>
 <td align="center" width="25%">
 
-**🗄️ Databases & Tools**
+**🗄️ Veritabanları & Araçlar**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -121,7 +121,7 @@
 
 ---
 
-## 🚀 Featured Infrastructure & Open-Source Projects
+## 🚀 Öne Çıkan Altyapı & Açık Kaynak Projeler
 
 <div align="center">
 
@@ -135,34 +135,34 @@
 
 ### ⚡ Supabase Local Orchestrator
 
-**BaaS Pod Orchestration & Control Plane**
+**BaaS Pod Orkestrasyonu & Kontrol Paneli**
 
-Kiracı (tenant) başına izole ve minimalist Docker Pod'ları oluşturan, standart Supabase mimarisine kıyasla **%95 RAM tasarrufu** (~35MB RAM footprint) sağlayan self-hosted yönetim altyapısı.
+Proje/müşteri başına izole ve minimalist Docker Pod'ları oluşturan, standart Supabase kurulumlarına kıyasla **%95 RAM tasarrufu** (~35MB RAM kullanımı) sağlayan self-hosted yönetim altyapısı.
 
-**🔧 Tech Stack:**
+**🔧 Teknoloji Yığını:**
 `Next.js 14` `Docker Engine API` `Traefik v3` `PostgreSQL` `JWT Auth`
 
-**✨ Key Highlights:**
-- ✅ **Dynamic Pod Isolation:** Her proje için izole Docker ağları ve Traefik dinamik routing
-- ✅ **Zero Secret Leaks:** JWT ve DB şifrelerinin anlık dinamik dağıtımı
-- ✅ **Ultra Efficient:** Kiracı başına ~35MB RAM tüketimi ile yüksek yoğunluklu barındırma
+**✨ Öne Çıkan Özellikler:**
+- ✅ **Dinamik Pod İzolasyonu:** Her proje için izole Docker ağları ve Traefik dinamik yönlendirme
+- ✅ **Gizli Veri Güvenliği:** JWT ve DB şifrelerinin anlık dinamik dağıtımıyla sızıntı riskini sıfırlama
+- ✅ **Yüksek Verimlilik:** Kiracı başına ~35MB RAM tüketimi ile yüksek yoğunluklu barındırma
 
 </td>
 <td width="50%">
 
 ### ⚙️ Pulse-Coolify
 
-**MCP Server & Coolify Deployment Automation**
+**MCP Sunucusu & Coolify Dağıtım Otomasyonu**
 
 Coolify PaaS altyapısını Model Context Protocol (MCP) üzerinden yönetmeyi sağlayan, LLM ve CLI sistemlerine entegre edilebilir açık kaynaklı otomasyon sunucusu.
 
-**🔧 Tech Stack:**
+**🔧 Teknoloji Yığını:**
 `TypeScript` `Coolify REST API` `Docker` `MCP Protocol` `Node.js`
 
-**✨ Key Highlights:**
-- ✅ **Zero-Downtime Deployment:** Uygulama dağıtımları, log inceleme ve ortam değişkeni yönetimi
-- ✅ **Server Health & Monitoring:** Sunucu durumları, port çakışmaları ve konfigürasyon kontrolleri
-- ✅ **Full Automation:** Coolify instance'ları arasında tam kapsamlı orkestrasyon
+**✨ Öne Çıkan Özellikler:**
+- ✅ **Kesintisiz Dağıtım (Zero-Downtime):** Otomatik uygulama dağıtımı, canlı log takibi ve ortam değişkeni yönetimi
+- ✅ **Sunucu Sağlığı & İzleme:** Sunucu durum kontrolü, port çakışması tespiti ve konfigürasyon analizi
+- ✅ **Tam Otomasyon:** Coolify örnekleri arasında uçtan uca orkestrasyon
 
 </td>
 </tr>
@@ -171,70 +171,70 @@ Coolify PaaS altyapısını Model Context Protocol (MCP) üzerinden yönetmeyi s
 
 ### ☁️ CloudMulti
 
-**High-Performance Cloudflare API Gateway**
+**Yüksek Performanslı Cloudflare API Gateway**
 
-Rust ile yazılmış, çoklu Cloudflare hesaplarını tek bir noktadan yöneten, son derece hafif (<30MB RAM) ve yüksek güvenlikli API Gateway backend.
+Rust dili ile yazılmış, çoklu Cloudflare hesaplarını tek bir merkezden yöneten, son derece hafif (<30MB RAM) ve yüksek güvenlikli API Gateway backend.
 
-**🔧 Tech Stack:**
+**🔧 Teknoloji Yığını:**
 `Rust` `Tokio` `Axum` `SQLx` `SQLite` `AES-256-GCM`
 
-**✨ Key Highlights:**
-- ✅ **AES-256-GCM Token Encryption:** API anahtarlarının sunucu tarafında master key ile şifrelenmesi
-- ✅ **Concurrent Zone Aggregation:** Çoklu hesap alan adlarının asenkron paralel çekilmesi
-- ✅ **Minimal Footprint:** Düşük kaynaklı VPS ve homelab ortamları için optimize edilmiş mimari
+**✨ Öne Çıkan Özellikler:**
+- ✅ **AES-256-GCM Şifreleme:** API anahtarlarının sunucu tarafında master key ile şifrelenerek saklanması
+- ✅ **Eşzamanlı Alan Adı Taraması:** Çoklu hesap verilerinin asenkron ve paralel olarak çekilmesi
+- ✅ **Minimal Kaynak Tüketimi:** Düşük konfigürasyonlu VPS ve homelab ortamları için optimize mimari
 
 </td>
 <td width="50%">
 
-### 🏹 OCI A1 Capacity Hunter
+### 🏹 OCI A1 Kapasite Avcısı
 
-**Automated Cloud Capacity Hunter Daemon**
+**Otonom Bulut Kaynak Avcısı Daemon**
 
-Oracle Cloud Infrastructure (OCI) `VM.Standard.A1.Flex` ARM kaynaklarının yetersiz olduğu durumlarda 7/24 kapasite taraması yapan ve otomatik instance oluşturan Dockerize daemon.
+Oracle Cloud Infrastructure (OCI) `VM.Standard.A1.Flex` ARM kaynaklarının yetersiz olduğu durumlarda 7/24 kesintisiz tarama yapan ve stok bulunduğunda otomatik sunucu oluşturan Dockerize daemon.
 
-**🔧 Tech Stack:**
+**🔧 Teknoloji Yığını:**
 `Shell (Bash)` `OCI CLI` `Docker Compose` `Telegram Bot API`
 
-**✨ Key Highlights:**
-- ✅ **24/7 Capacity Scanning:** Kesintisiz API döngüsü ile stok yakalama
-- ✅ **Instant Alerting:** Başarılı provizyon anında Telegram notification ve SSH anahtar kurulumu
-- ✅ **Dockerized Execution:** Herhangi bir VPS üzerinde tek komutla headless çalışma
+**✨ Öne Çıkan Özellikler:**
+- ✅ **7/24 Kesintisiz Tarama:** Sürekli API döngüsü ile anında stok yakalama
+- ✅ **Anlık Bildirim:** Başarılı provizyon anında Telegram uyarısı ve SSH anahtarı kurulumu
+- ✅ **Dockerize Çalışma:** Herhangi bir VPS üzerinde tek komutla headless çalıştırma
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛡️ Vault Protocol
+### 🛡️ Vault Protokolü
 
-**Digital Legacy & Dead Man's Switch System**
+**Dijital Miras & Acil Durum Protokolü (Dead Man's Switch)**
 
-Kullanıcıdan belirli bir süre (örneğin 7 gün) sinyal (heartbeat) alınmadığı durumda acil durum kişilerine şifreli yedekleri ve erişim talimatlarını otomatik ileten dijital miras güvenlik protokolü.
+Kullanıcıdan belirli bir süre (örneğin 7 gün) sinyal (heartbeat) alınmadığında acil durum kişilerine şifreli yedekleri ve erişim talimatlarını otomatik ileten acil durum güvenlik protokolü.
 
-**🔧 Tech Stack:**
-`Rust` `Docker` `AES-256-GCM` `Automated Webhooks` `SQLite`
+**🔧 Teknoloji Yığını:**
+`Rust` `Docker` `AES-256-GCM` `Otomatik Webhook` `SQLite`
 
-**✨ Key Highlights:**
-- ✅ **Zero-Knowledge Design:** Kullanıcı verilerinin istemci tarafında şifrelenmesi
-- ✅ **Automated Heartbeat Check:** İnteraktif sinyal takibi ve aşamalı uyarı sistemi
-- ✅ **Encrypted Dispatch:** Zaman aşımında otomatik şifreli veri teslimatı
+**✨ Öne Çıkan Özellikler:**
+- ✅ **Sıfır Bilgi Mimari (Zero-Knowledge):** Kullanıcı verilerinin istemci tarafında şifrelenmesi
+- ✅ **Otomatik Sinyal Takibi:** İnteraktif sinyal takibi ve kademeli uyarı mekanizması
+- ✅ **Şifreli Teslimat:** Zaman aşımında otomatik şifreli veri aktarımı
 
 </td>
 <td width="50%">
 
 ### 🔗 LinkShortener SaaS
 
-**Isolated Dual-Microservice URL Gateway**
+**İzole Çift Mikroservisli URL Gateway**
 
-White-label ve özel domain (CNAME) destekli, yönlendirme motoru (`shortener-engine`) ile yönetim panelini (`admin-panel`) tamamen birbirinden izole eden çift mikro-servis mimarisi.
+Markadan bağımsız (white-label) ve özel domain (CNAME) destekli, yönlendirme motoru (`shortener-engine`) ile yönetim panelini (`admin-panel`) tamamen birbirinden ayıran mikroservis mimarisi.
 
-**🔧 Tech Stack:**
-`TypeScript` `Next.js` `Fastify` `Docker` `Redis` `DNS Validation`
+**🔧 Teknoloji Yığını:**
+`TypeScript` `Next.js` `Fastify` `Docker` `Redis` `DNS Doğrulama`
 
-**✨ Key Highlights:**
-- ✅ **No-Redeploy Custom Domains:** Müşteri domain eklemelerinde sunucu yeniden başlatma gerektirmez
-- ✅ **Security Isolation:** Kısaltma domaininden admin paneline erişim imkansızdır (404 izolasyonu)
-- ✅ **Automated DNS Check:** CNAME & TXT doğrulaması ile domain sahiplik kontrolü
+**✨ Öne Çıkan Özellikler:**
+- ✅ **Yeniden Dağıtımsız (No-Redeploy) Domain:** Müşteri domain eklemelerinde sunucuyu yeniden başlatma gerektirmez
+- ✅ **Güvenlik İzolasyonu:** Kısaltma domaininden admin paneline erişim engellidir (404 izolasyonu)
+- ✅ **Otomatik DNS Kontrolü:** CNAME & TXT sorgulaması ile otomatik domain sahipliği doğrulaması
 
 </td>
 </tr>
@@ -243,32 +243,32 @@ White-label ve özel domain (CNAME) destekli, yönlendirme motoru (`shortener-en
 
 ### 💎 GeminiTUI
 
-**Transparent Terminal UI for Gemini AI**
+**Gemini AI için Şeffaf Terminal İstemcisi**
 
-Google Gemini AI istemcisini şeffaf (naked/transparent) terminal estetiği ile buluşturan, aşırı hafif ve akıcı terminal uygulaması.
+Google Gemini AI chatbot arayüzünü şeffaf (naked/transparent) terminal estetiği ile buluşturan, aşırı hafif ve akıcı terminal uygulaması.
 
-**🔧 Tech Stack:**
+**🔧 Teknoloji Yığını:**
 `Python 3.10+` `Textual TUI` `Google Gemini API` `Rich`
 
-**✨ Key Highlights:**
-- ✅ **Naked UI Design:** Çerçeve kirliliği olmayan şeffaf terminal uyumu
-- ✅ **0ms Cold-Start:** Yerel önbellekleme ile anında oturum açılışı ve geçmiş sohbet senkronizasyonu
+**✨ Öne Çıkan Özellikler:**
+- ✅ **Şeffaf Terminal Tasarımı:** Çerçeve kirliliği olmadan terminal arka planı ile tam uyum
+- ✅ **Anında Başlatma (0ms Cold-Start):** Yerel önbellekleme ile anında açılış ve sohbet senkronizasyonu
 
 </td>
 <td width="50%">
 
 ### 📧 Mailora Hub
 
-**Memory-Safe IMAP/SMTP Gateway Engine**
+**Bellek Güvenli IMAP/SMTP E-Posta Motoru**
 
 OAuth2 karmaşasından uzak, IMAP/SMTP protokolleri üzerinden çoklu e-posta yönetimini bellek güvenli (memory-safe) şekilde gerçekleştiren sunucu altyapısı.
 
-**🔧 Tech Stack:**
+**🔧 Teknoloji Yığını:**
 `Rust` `Tokio` `SQLite` `OpenPGP.js` `E2EE`
 
-**✨ Key Highlights:**
-- ✅ **Memory-Safe Architecture:** Rust'ın sahiplik (ownership) modeliyle bellek sızıntısız e-posta işleme
-- ✅ **Secure Vault Storage:** Yerel şifreli veritabanı ile güvenli oturum yönetimi
+**✨ Öne Çıkan Özellikler:**
+- ✅ **Bellek Güvenli Mimari:** Rust'ın sahiplik (ownership) modeliyle bellek sızıntısız e-posta işleme
+- ✅ **Güvenli Kasalama:** Yerel şifreli veritabanı ile emniyetli oturum yönetimi
 
 </td>
 </tr>
@@ -276,15 +276,15 @@ OAuth2 karmaşasından uzak, IMAP/SMTP protokolleri üzerinden çoklu e-posta y�
 
 ---
 
-## 📊 GitHub Analytics & Metrics
+## 📊 GitHub İstatistikleri & Metrikler
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElCunq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&locale=tr&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElCunq&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElCunq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&locale=tr&rank_icon=github" alt="GitHub İstatistikleri" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElCunq&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Serisi" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElCunq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=tr&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElCunq&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElCunq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=tr&langs_count=8" alt="En Çok Kullanılan Diller" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElCunq&theme=tokyonight&utcOffset=3" alt="Verimli Saatler" />
 
 </div>
 
@@ -292,7 +292,7 @@ OAuth2 karmaşasından uzak, IMAP/SMTP protokolleri üzerinden çoklu e-posta y�
 
 <div align="center">
 
-### 💬 Let's Connect & Collaborate!
+### 💬 İletişime Geçelim!
 
 <p>
   <i>DevOps, DevSecOps, bulut mimarisi, konteyner otomasyonu ve Rust projeleri hakkında konuşmak veya işbirliği yapmak ister misiniz?</i><br>
@@ -301,14 +301,14 @@ OAuth2 karmaşasından uzak, IMAP/SMTP protokolleri üzerinden çoklu e-posta y�
 
 <br/>
 
-**🌐 Self-Hosted Infrastructure at:** [orfadev.com](https://orfadev.com) • **⚡ Stack:** Arch Linux + Docker + Traefik + Coolify
+**🌐 Self-Hosted Altyapı:** [orfadev.com](https://orfadev.com) • **⚡ Teknoloji Yığını:** Arch Linux + Docker + Traefik + Coolify
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ElCunq&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ElCunq&style=for-the-badge&color=58A6FF&label=Profil+Ziyaretleri" alt="Profil Ziyaretleri" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" alt="Alt Bilgi" />
 
 </div>
