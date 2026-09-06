@@ -24,8 +24,8 @@
   <br/>
 
   <!-- Butonlar -->
-  <a href="https://orfadev.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portföy-orfadev.com-2962FF?style=for-the-badge&logoColor=white" height="35" />
+  <a href="https://orfa.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portföy-orfa.dev-2962FF?style=for-the-badge&logoColor=white" height="35" />
   </a>
   <a href="./CenkOrfa_CV_TR.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Özgeçmiş_(TR)-PDF-EA4335?style=for-the-badge&logoColor=white" height="35" />
@@ -301,7 +301,7 @@ OAuth2 karmaşasından uzak, IMAP/SMTP protokolleri üzerinden çoklu e-posta y�
 
 <br/>
 
-**🌐 Self-Hosted Altyapı:** [orfadev.com](https://orfadev.com) • **⚡ Teknoloji Yığını:** Arch Linux + Docker + Traefik + Coolify
+**🌐 Self-Hosted Altyapı:** [orfa.dev](https://orfa.dev) • **⚡ Teknoloji Yığını:** Arch Linux + Docker + Traefik + Coolify
 
 <br/>
 
