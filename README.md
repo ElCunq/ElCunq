@@ -2,7 +2,7 @@
 
 İstanbul'da yaşıyorum. Backend, altyapı ve otomasyon tarafında çalışıyorum: Docker üzerinde servisler, kuyruk ve worker sistemleri, self-hosted kurulumlar. Arayüzden çok, arkada çalışan kısmı kurmayı seviyorum.
 
-Python ve Rust ile yazıyorum, sunucularımı Coolify ve Traefik ile yönetiyorum. Kodlamada AI ajanlarını yoğun kullanıyorum ve birden fazla ajanı aynı projede çalıştırmak için kendi aracımı yazdım (aşağıda HiveForge).
+Kalıcı sistemlerde Rust, hızlı bitirilmesi gereken işlerde Python kullanıyorum. Sunucularımı Coolify ve Traefik ile yönetiyorum. Kodlamada AI ajanlarını yoğun kullanıyorum ve birden fazla ajanı aynı projede çalıştırmak için kendi aracımı yazdım (aşağıda HiveForge).
 
 Junior backend / altyapı pozisyonlarına ve freelance işlere açığım.
 
