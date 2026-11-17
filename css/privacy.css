@@ -1,0 +1,6 @@
+body { font-family: sans-serif; background-color: #222; color: #fff; padding: 2rem; line-height: 1.6; max-width: 800px; margin: 0 auto; }
+h1 { color: #fff; border-bottom: 1px solid #444; padding-bottom: 10px; }
+h2 { color: #ddd; margin-top: 20px; }
+p { color: #ccc; }
+a { color: #fff; text-decoration: underline; }
+.back-btn { display: inline-block; margin-top: 20px; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 5px; }
